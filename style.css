@@ -80,6 +80,7 @@
     transition: all 0.3s ease;
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
     font-family: inherit;
+    z-index: 999;
   }
 
   button:hover {
